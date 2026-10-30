@@ -1,5 +1,9 @@
 # Node-RED on Railway — editor locked before the first request
 
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/node-red-or-just-updated-flow-automation?referralCode=Z1xivh&utm_medium=integration&utm_source=template&utm_campaign=generic)
+
+**Deploy on Railway:** [Node-RED template](https://railway.com/deploy/node-red-or-just-updated-flow-automation?referralCode=Z1xivh&utm_medium=integration&utm_source=template&utm_campaign=generic)
+
 A Railway wrapper for [Node-RED](https://nodered.org) that closes the admin API
 **before the public URL ever serves a request**, pins the runtime, and repairs
 the Railway volume so flows and credentials actually persist.
